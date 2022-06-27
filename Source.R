@@ -1,13 +1,6 @@
-# Ahmed Mohammed Ahmed Ali
-# TP059731
+# Credit: @AK1o9
 
-#Intake: APD2F2102SE
-
-#Module Code: CT127-3-2-PFDA
-#Module Name: Programming for Data Analysis 
-#PFDA Lab Group: 2
-
-#[PFDA] Assignment - US Weather Report Data Management
+# US Weather Report Data Management & Analysis
 
 
   #Installing extra packages:
